@@ -25,13 +25,21 @@ the capabilities and limitations of these methods.*
 ![The self-attentions of the last layer in the MAE model, clustered by attention head from 1
 to 6, are visualized for three images with the number of clusters indicated. From top to bottom, the
 number of clusters used is 7, 3, and 4, respectively](figures/final-last-first.png)
+*The self-attentions of the last layer in the MAE model, clustered by attention head from 1
+to 6, are visualized for three images with the number of clusters indicated. From top to bottom, the
+number of clusters used is 7, 3, and 4, respectively*
 
 ![The self-attentions of the last layer in the MAE model, clustered by attention head from 7 to 12, are visualized for three images with the number of clusters indicated. From top to bottom, the
 number of clusters used is 7, 3, and 4, respectively](figures/final-last-second.png)
+*The self-attentions of the last layer in the MAE model, clustered by attention head from 7 to 12, are visualized for three images with the number of clusters indicated. From top to bottom, the
+number of clusters used is 7, 3, and 4, respectively*
 
 ![Visualization of the self-attentions in the seventh attention head for the final layer. ](figures/head7-final.png)
+*Visualization of the self-attentions in the seventh attention head for the final layer.*
 
 ### The self-attentions of DINO
 
 ![The last layer self-attentions clustered with attentions calculated with DINO. From top to
 bottom, the number of clusters for each image used is 7, 3, and 4, respectively.](figures/last-self-dino.png)
+*The last layer self-attentions clustered with attentions calculated with DINO. From top to
+bottom, the number of clusters for each image used is 7, 3, and 4, respectively.*
